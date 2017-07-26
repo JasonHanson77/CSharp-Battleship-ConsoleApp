@@ -1,0 +1,7 @@
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\nunit.framework.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\nunit.framework.xml
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache

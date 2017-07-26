@@ -1,0 +1,11 @@
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.UI.exe
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.pdb
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.UI.pdb
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.xml
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.dll
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.pdb
+D:\OneDrive\_repos\swcguild\SWG-Work\jason-hanson-individual-work\Section2\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.pdb
